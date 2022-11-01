@@ -19,3 +19,8 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+
+
+# Local Guide
+README_LOCAL.md
+
